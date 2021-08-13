@@ -6,7 +6,7 @@
 ![zee](https://user-images.githubusercontent.com/84847269/128533484-47e39f49-75d7-458c-b26b-b92f1d162178.gif)
 
 ## Live URL :-
-> [Food app](http://127.0.0.1:5500/index.html)
+> [Food app](https://food-app-demo.vercel.app/)
 
 
 ## Technologies Used
