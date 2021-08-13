@@ -49,6 +49,7 @@ function getMealList() {
       hideLoading();
       mealList.innerHTML = html;
     });
+  searchInput.value = "";
 }
 
 // get meal recipe
